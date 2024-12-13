@@ -59,4 +59,5 @@ Deployment process walkthrough
 
 ![Screenshot 2024-12-13 183148](https://github.com/user-attachments/assets/6ad40cc2-839d-4345-ae2f-b95e859e5196)
 ![Screenshot 2024-12-13 183221](https://github.com/user-attachments/assets/77c328bf-86b8-47ce-90ed-5a5476bf27c7)
-![Screenshot 2024-12-13 183256](https://github.com/user-attachments/assets/62348424-53d6-4a42-8e60-7331e3feb9d0)
+
+![Screenshot 2024-12-13 183341](https://github.com/user-attachments/assets/d0ee943f-0f29-48cc-86e6-3555737ce820)
